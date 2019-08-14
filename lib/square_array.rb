@@ -4,7 +4,6 @@ def square_array(array)
   
   while i < array.length do
     arr << array[i]
-    puts array[i]
     i += 1
   end
 end
